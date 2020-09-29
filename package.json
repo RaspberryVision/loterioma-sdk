@@ -1,0 +1,17 @@
+{
+  "name": "loterioma/public-sdk",
+  "description": "Public SDK for Loterioma system.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rafal Malik",
+      "email": "rafalmalik.info@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {"Loterioma\\PublicSdk\\": "src/"}
+  },
+  "require": {}
+}
